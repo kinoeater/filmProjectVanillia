@@ -1,0 +1,23 @@
+body {
+    background: rgb(75, 36, 167);
+}
+
+.card-body {
+
+    background: pink;
+}
+
+.card-header {
+    background: rgb(165, 152, 152);
+    font-weight: bold;
+}
+.img-thumbnail {
+
+    max-height: 20rem;
+}
+      
+
+.fall {
+    transform: translateY(30rem) rotateZ(25deg);
+  }
+
